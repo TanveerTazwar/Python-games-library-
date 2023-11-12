@@ -1,0 +1,1 @@
+Run Tetris.py only
